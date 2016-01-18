@@ -2,7 +2,7 @@
     "aliquot": 1, 
     "analysis_type": "unknown", 
     "collection_version": "0.1:0.1", 
-    "comment": "58.84 mg", 
+    "comment": "137.67 mg", 
     "commit": "a8c2af6c8457fcd1d6947930b4f67826a0776876", 
     "detectors": {
         "AX": {
@@ -31,11 +31,11 @@
         }
     }, 
     "extraction": "", 
-    "identifier": "63106", 
-    "increment": null, 
-    "irradiation": "NM-269", 
-    "irradiation_level": "F", 
-    "irradiation_position": 6, 
+    "identifier": "63422", 
+    "increment": 0, 
+    "irradiation": "NM-273", 
+    "irradiation_level": "G", 
+    "irradiation_position": 1, 
     "isotopes": {
         "Ar36": {
             "classification": null, 
@@ -69,14 +69,14 @@
         }
     }, 
     "mass_spectrometer": "obama", 
-    "material": "gm", 
+    "material": "gmc", 
     "measurement": "", 
     "project": "RedHillQuemado", 
     "queue_conditionals_name": "", 
     "repository_identifier": "RedHillQuemado", 
-    "sample": "NMRQ-10", 
+    "sample": "NMRQ-04", 
     "spec_sha": "60248bf9da67b92300dde8348586c4b7bee665c9", 
-    "timestamp": "2014-10-21T16:26:12", 
+    "timestamp": "2015-01-07T18:05:43", 
     "username": "MZimmerer", 
-    "uuid": "f7bfdb7f-3fa8-4b94-ab7a-b6163022239d"
+    "uuid": "27fcbc80-b356-499d-b20e-c409e4a45472"
 }

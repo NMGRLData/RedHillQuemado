@@ -2,39 +2,39 @@
     "aliquot": 1, 
     "analysis_type": "unknown", 
     "collection_version": "0.1:0.1", 
-    "comment": "102.88 mg", 
+    "comment": "100.84 mg", 
     "commit": "a8c2af6c8457fcd1d6947930b4f67826a0776876", 
     "detectors": {
         "AX": {
-            "deflection": null, 
+            "deflection": 120.0, 
             "gain": null
         }, 
         "CDD": {
-            "deflection": null, 
+            "deflection": 130.0, 
             "gain": null
         }, 
         "H1": {
-            "deflection": null, 
+            "deflection": 0.0, 
             "gain": null
         }, 
         "H2": {
-            "deflection": null, 
+            "deflection": 200.0, 
             "gain": null
         }, 
         "L1": {
-            "deflection": null, 
+            "deflection": 200.0, 
             "gain": null
         }, 
         "L2": {
-            "deflection": null, 
+            "deflection": 420.0, 
             "gain": null
         }
     }, 
     "extraction": "", 
-    "identifier": "63094", 
-    "increment": null, 
-    "irradiation": "NM-269", 
-    "irradiation_level": "D", 
+    "identifier": "63856", 
+    "increment": 0, 
+    "irradiation": "NM-278", 
+    "irradiation_level": "A", 
     "irradiation_position": 6, 
     "isotopes": {
         "Ar36": {
@@ -69,14 +69,14 @@
         }
     }, 
     "mass_spectrometer": "obama", 
-    "material": "gm", 
+    "material": "Groundmass Concentrate", 
     "measurement": "", 
     "project": "RedHillQuemado", 
     "queue_conditionals_name": "", 
     "repository_identifier": "RedHillQuemado", 
-    "sample": "NMRQ-03", 
-    "spec_sha": "60248bf9da67b92300dde8348586c4b7bee665c9", 
-    "timestamp": "2014-10-19T23:52:25", 
-    "username": "", 
-    "uuid": "dc65194b-b595-4daf-a3b9-49c7c166e0eb"
+    "sample": "NMRQ-11", 
+    "spec_sha": "7e844deec9697c69c2864e6c8b0d64196a4a1f05", 
+    "timestamp": "2015-10-27T05:26:34", 
+    "username": "root", 
+    "uuid": "66a2f22d-faf8-499c-9f5e-850c55a1cc5c"
 }

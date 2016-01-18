@@ -2,7 +2,7 @@
     "aliquot": 1, 
     "analysis_type": "unknown", 
     "collection_version": "0.1:0.1", 
-    "comment": "78.36 mg", 
+    "comment": "74.24 mg", 
     "commit": "a8c2af6c8457fcd1d6947930b4f67826a0776876", 
     "detectors": {
         "AX": {
@@ -31,11 +31,11 @@
         }
     }, 
     "extraction": "", 
-    "identifier": "63103", 
-    "increment": null, 
+    "identifier": "63104", 
+    "increment": 0, 
     "irradiation": "NM-269", 
     "irradiation_level": "F", 
-    "irradiation_position": 3, 
+    "irradiation_position": 4, 
     "isotopes": {
         "Ar36": {
             "classification": null, 
@@ -74,9 +74,9 @@
     "project": "RedHillQuemado", 
     "queue_conditionals_name": "", 
     "repository_identifier": "RedHillQuemado", 
-    "sample": "NMRQ-08", 
+    "sample": "NMRQ--08", 
     "spec_sha": "60248bf9da67b92300dde8348586c4b7bee665c9", 
-    "timestamp": "2014-10-23T19:35:02", 
+    "timestamp": "2014-10-21T16:37:08", 
     "username": "MZimmerer", 
-    "uuid": "4b6289ae-a3ba-4167-879a-a9894d5f3508"
+    "uuid": "fb87e8c4-bd6b-41f5-881e-5521b50db7ae"
 }

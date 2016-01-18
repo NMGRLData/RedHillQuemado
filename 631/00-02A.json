@@ -1,40 +1,40 @@
 {
-    "aliquot": 1, 
+    "aliquot": 2, 
     "analysis_type": "unknown", 
     "collection_version": "0.1:0.1", 
-    "comment": "100.84 mg", 
+    "comment": "58.41 mg", 
     "commit": "a8c2af6c8457fcd1d6947930b4f67826a0776876", 
     "detectors": {
         "AX": {
-            "deflection": 120.0, 
+            "deflection": null, 
             "gain": null
         }, 
         "CDD": {
-            "deflection": 130.0, 
+            "deflection": null, 
             "gain": null
         }, 
         "H1": {
-            "deflection": 0.0, 
+            "deflection": null, 
             "gain": null
         }, 
         "H2": {
-            "deflection": 200.0, 
+            "deflection": null, 
             "gain": null
         }, 
         "L1": {
-            "deflection": 200.0, 
+            "deflection": null, 
             "gain": null
         }, 
         "L2": {
-            "deflection": 420.0, 
+            "deflection": null, 
             "gain": null
         }
     }, 
     "extraction": "", 
-    "identifier": "63856", 
-    "increment": null, 
-    "irradiation": "NM-278", 
-    "irradiation_level": "A", 
+    "identifier": "63100", 
+    "increment": 0, 
+    "irradiation": "NM-269", 
+    "irradiation_level": "E", 
     "irradiation_position": 6, 
     "isotopes": {
         "Ar36": {
@@ -69,14 +69,14 @@
         }
     }, 
     "mass_spectrometer": "obama", 
-    "material": "Groundmass Concentrate", 
+    "material": "gm", 
     "measurement": "", 
     "project": "RedHillQuemado", 
     "queue_conditionals_name": "", 
     "repository_identifier": "RedHillQuemado", 
-    "sample": "NMRQ-11", 
-    "spec_sha": "7e844deec9697c69c2864e6c8b0d64196a4a1f05", 
-    "timestamp": "2015-10-27T05:26:34", 
-    "username": "root", 
-    "uuid": "66a2f22d-faf8-499c-9f5e-850c55a1cc5c"
+    "sample": "NMRQ-09", 
+    "spec_sha": "60248bf9da67b92300dde8348586c4b7bee665c9", 
+    "timestamp": "2014-10-21T16:05:43", 
+    "username": "MZimmerer", 
+    "uuid": "2f920b1c-a923-4e1b-aebb-a3fdfacef882"
 }
